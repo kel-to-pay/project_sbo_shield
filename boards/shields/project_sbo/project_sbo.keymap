@@ -8,7 +8,7 @@
 #include <dt-bindings/zmk/keys.h>
 
 #define DEF_L 0
-//               |     W     |     E     |     R     |     T     |     Y     |     U     |     I     |     P     |  
+//               |     W     |     E     |     R     |     T     |     Y     |     U     |     I     |     P     |
 //               |     S     |     D     |     F     |     G     |     G     |     H     |     J     |     K     |
 //    |    ESC   |     A     |     Q     |     L     |   SHIFT   |   SHIFT   |     P     |     [     |     ]     |    ESC    |
 //    |   SHIFT  |     Z     |     X     |     C     |                       |     M     |     <     |     >     |   SHIFT   |

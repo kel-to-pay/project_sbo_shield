@@ -1,8 +1,8 @@
 file_format: "1"
-id: hummingbird
-name: Hummingbird
+id: project_sbo_v1
+name: Project SBO
 type: shield
-url: https://github.com/PJE66/hummingbird
-requires: [seeed_xiao]
+url: https://github.com/kel-to-pay/project_sbo_shield
+requires: [pro_micro]
 features:
   - keys
