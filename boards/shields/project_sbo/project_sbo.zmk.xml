@@ -1,0 +1,9 @@
+file_format: "1"
+id: project_sbo
+name: Project SBO
+type: shield
+url: https://github.com/kel-to-pay/project_sbo_shield
+requires:
+  - pro_micro
+features:
+  - keys
